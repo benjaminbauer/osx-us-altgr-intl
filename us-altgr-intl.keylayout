@@ -1245,7 +1245,7 @@
         </action>
     </actions>
     <terminators>
-        <when state="dead_abovedot" output="˙"/>
+        <when state="dead_abovedot" output=""/>
         <when state="dead_abovering" output="˚"/>
         <when state="dead_acute" output="´"/>
         <when state="dead_belowdot" output="."/>
